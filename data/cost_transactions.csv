@@ -1,0 +1,991 @@
+Date,Department,Category,Vendor,Cost_Type,Amount
+2025-01-02,HR,Consulting,Accenture,Variable,1801.71
+2025-01-03,IT,Software,Slack,Fixed,1923.85
+2025-01-03,Finance,Consulting,Deloitte,Variable,3127.65
+2025-01-03,Marketing,Advertising,Meta Ads,Variable,914.81
+2025-01-03,Sales,Travel,VR,Variable,595.26
+2025-01-03,Marketing,Advertising,LinkedIn,Variable,6305.29
+2025-01-04,Operations,Maintenance,FixIt Oy,Variable,2786.86
+2025-01-06,Marketing,Advertising,LinkedIn,Variable,2804.42
+2025-01-07,IT,Software,Microsoft,Fixed,3909.8
+2025-01-08,HR,Recruitment,Recruit Partners,Variable,1128.89
+2025-01-11,Operations,Supplies,Staples,Variable,126.54
+2025-01-11,Sales,Travel,Finnair,Variable,1724.06
+2025-01-12,Marketing,Consulting,Deloitte,Variable,1306.63
+2025-01-13,Sales,Travel,Finnair,Variable,1020.58
+2025-01-13,Operations,Travel,Booking.com,Variable,542.39
+2025-01-14,IT,Software,Slack,Fixed,2880.26
+2025-01-14,Finance,Software,Adobe,Fixed,2043.06
+2025-01-15,Sales,Travel,Finnair,Variable,1267.91
+2025-01-15,HR,Training,Local Academy,Variable,2386.04
+2025-01-16,IT,Cloud services,AWS,Fixed,2691.62
+2025-01-16,IT,Cloud services,Azure,Fixed,4692.41
+2025-01-17,IT,Consulting,Deloitte,Variable,2590.67
+2025-01-17,Marketing,Events,Eventful Oy,Variable,6401.0
+2025-01-18,Finance,Consulting,Deloitte,Variable,4875.06
+2025-01-18,HR,Software,Atlassian,Fixed,2404.34
+2025-01-19,Finance,Training,Udemy,Variable,1422.81
+2025-01-20,Sales,Software,Adobe,Fixed,1455.76
+2025-01-22,Marketing,Software,Slack,Fixed,1020.16
+2025-01-23,IT,Hardware,Apple,Variable,4780.57
+2025-01-23,Operations,Supplies,Staples,Variable,475.89
+2025-01-24,Sales,Training,Local Academy,Variable,2453.34
+2025-01-24,Operations,Supplies,Tokmanni,Variable,442.6
+2025-01-25,IT,Cloud services,Azure,Fixed,4255.6
+2025-01-25,HR,Training,Local Academy,Variable,2061.58
+2025-01-26,HR,Recruitment,Oikotie,Variable,533.13
+2025-01-26,Operations,Equipment,Fastems,Variable,2257.13
+2025-01-27,Marketing,Advertising,LinkedIn,Variable,4605.82
+2025-01-27,Finance,Software,Adobe,Fixed,3130.5
+2025-01-27,HR,Recruitment,LinkedIn,Variable,1797.48
+2025-01-29,Marketing,Travel,Booking.com,Variable,2423.65
+2025-01-29,Operations,Maintenance,ServiceCo,Variable,2384.32
+2025-01-30,Sales,Events,Messukeskus,Variable,7627.96
+2025-01-31,Operations,Equipment,Industrial Supply,Variable,1944.0
+2025-01-31,Operations,Equipment,Fastems,Variable,3096.29
+2025-01-31,Operations,Maintenance,FixIt Oy,Variable,1541.08
+2025-02-01,Marketing,Consulting,Local Consulting Oy,Variable,6096.6
+2025-02-03,Marketing,Advertising,Google Ads,Variable,6430.58
+2025-02-04,Marketing,Advertising,Meta Ads,Variable,1833.52
+2025-02-04,Finance,Consulting,Accenture,Variable,5672.12
+2025-02-04,Operations,Equipment,Toolmaster,Variable,2876.57
+2025-02-04,Marketing,Travel,VR,Variable,1693.91
+2025-02-05,HR,Recruitment,Recruit Partners,Variable,2697.07
+2025-02-05,Operations,Supplies,Tokmanni,Variable,693.18
+2025-02-06,Operations,Supplies,Staples,Variable,89.06
+2025-02-06,Sales,Travel,Finnair,Variable,494.53
+2025-02-07,IT,Software,Atlassian,Fixed,2658.37
+2025-02-08,IT,Consulting,Local Consulting Oy,Variable,6078.41
+2025-02-08,HR,Recruitment,LinkedIn,Variable,2735.26
+2025-02-09,Operations,Supplies,Lyreco,Variable,902.45
+2025-02-09,Operations,Maintenance,Kone,Variable,2895.9
+2025-02-09,Operations,Equipment,Fastems,Variable,6510.13
+2025-02-09,Finance,Consulting,Accenture,Variable,5762.74
+2025-02-10,IT,Cloud services,AWS,Fixed,4888.37
+2025-02-11,Finance,Software,Slack,Fixed,3651.95
+2025-02-11,IT,Cloud services,Google Cloud,Fixed,3776.16
+2025-02-13,IT,Cloud services,AWS,Fixed,4919.25
+2025-02-13,HR,Training,Local Academy,Variable,1818.85
+2025-02-14,IT,Software,Atlassian,Fixed,1726.88
+2025-02-14,HR,Recruitment,Recruit Partners,Variable,881.01
+2025-02-16,Marketing,Software,Microsoft,Fixed,3504.17
+2025-02-16,Finance,Software,Microsoft,Fixed,2373.43
+2025-02-16,HR,Training,Coursera,Variable,957.01
+2025-02-18,Operations,Maintenance,ServiceCo,Variable,1918.69
+2025-02-18,IT,Hardware,Lenovo,Variable,807.6
+2025-02-18,Sales,Training,Coursera,Variable,266.49
+2025-02-18,Sales,Travel,Finnair,Variable,1138.42
+2025-02-19,Sales,Travel,Finnair,Variable,1546.27
+2025-02-19,Marketing,Events,Messukeskus,Variable,6003.37
+2025-02-21,Marketing,Advertising,Google Ads,Variable,4307.58
+2025-02-21,Finance,Training,Local Academy,Variable,2375.74
+2025-02-23,Marketing,Advertising,Meta Ads,Variable,2292.27
+2025-02-23,Sales,Events,Eventful Oy,Variable,8469.84
+2025-02-23,Sales,Travel,Finnair,Variable,1323.99
+2025-02-24,HR,Consulting,Deloitte,Variable,1162.8
+2025-02-26,Operations,Travel,Finnair,Variable,2373.2
+2025-02-27,Operations,Maintenance,ServiceCo,Variable,3378.01
+2025-02-27,HR,Software,Atlassian,Fixed,2248.75
+2025-02-27,IT,Software,Microsoft,Fixed,2905.15
+2025-02-28,Sales,Software,Adobe,Fixed,1599.25
+2025-02-28,Operations,Equipment,Fastems,Variable,653.39
+2025-03-01,IT,Cloud services,Google Cloud,Fixed,1848.32
+2025-03-01,HR,Training,Local Academy,Variable,1906.3
+2025-03-01,IT,Software,Slack,Fixed,2803.11
+2025-03-01,Sales,Travel,Booking.com,Variable,1924.34
+2025-03-01,IT,Cloud services,AWS,Fixed,4376.49
+2025-03-02,Marketing,Advertising,Google Ads,Variable,2567.45
+2025-03-04,Operations,Equipment,Toolmaster,Variable,6247.95
+2025-03-04,Finance,Training,Coursera,Variable,1420.32
+2025-03-04,IT,Software,Adobe,Fixed,1498.32
+2025-03-05,Operations,Supplies,Staples,Variable,184.18
+2025-03-05,HR,Recruitment,LinkedIn,Variable,996.07
+2025-03-06,HR,Training,Local Academy,Variable,2501.25
+2025-03-09,Operations,Equipment,Fastems,Variable,5430.17
+2025-03-09,Operations,Equipment,Toolmaster,Variable,2076.46
+2025-03-09,Marketing,Consulting,Accenture,Variable,5858.48
+2025-03-09,Finance,Software,Slack,Fixed,3313.19
+2025-03-10,Operations,Travel,Finnair,Variable,497.86
+2025-03-12,Marketing,Advertising,Meta Ads,Variable,6308.35
+2025-03-12,Operations,Maintenance,ServiceCo,Variable,2979.82
+2025-03-13,IT,Hardware,Lenovo,Variable,855.23
+2025-03-13,Sales,Travel,Finnair,Variable,2080.49
+2025-03-14,HR,Software,Atlassian,Fixed,3267.7
+2025-03-15,Operations,Supplies,Staples,Variable,69.34
+2025-03-15,Finance,Software,Microsoft,Fixed,2309.12
+2025-03-16,Sales,Software,Adobe,Fixed,3912.52
+2025-03-16,HR,Recruitment,Oikotie,Variable,3058.36
+2025-03-16,Marketing,Advertising,Meta Ads,Variable,1464.04
+2025-03-17,Sales,Training,Udemy,Variable,2845.25
+2025-03-18,Sales,Travel,Booking.com,Variable,1105.99
+2025-03-23,IT,Cloud services,Google Cloud,Fixed,1940.38
+2025-03-23,HR,Recruitment,Oikotie,Variable,2433.73
+2025-03-24,Finance,Consulting,Deloitte,Variable,3965.76
+2025-03-24,Finance,Consulting,Deloitte,Variable,7215.66
+2025-03-26,Sales,Travel,Finnair,Variable,449.64
+2025-03-27,HR,Consulting,Accenture,Variable,1799.29
+2025-03-27,IT,Software,Slack,Fixed,3677.87
+2025-03-27,Operations,Maintenance,Kone,Variable,558.37
+2025-03-28,Operations,Maintenance,ServiceCo,Variable,2204.86
+2025-03-28,IT,Consulting,Accenture,Variable,2299.98
+2025-03-29,Marketing,Software,Microsoft,Fixed,1172.72
+2025-03-29,Marketing,Travel,Booking.com,Variable,1545.94
+2025-03-29,Operations,Supplies,Tokmanni,Variable,194.52
+2025-03-31,Marketing,Advertising,LinkedIn,Variable,6953.21
+2025-03-31,Sales,Events,Eventful Oy,Variable,4902.52
+2025-03-31,Marketing,Events,Eventful Oy,Variable,5050.94
+2025-04-03,Marketing,Advertising,LinkedIn,Variable,862.88
+2025-04-04,Operations,Travel,VR,Variable,1540.07
+2025-04-06,Operations,Equipment,Industrial Supply,Variable,4447.85
+2025-04-06,Finance,Software,Adobe,Fixed,1080.36
+2025-04-07,HR,Software,Slack,Fixed,2339.2
+2025-04-08,HR,Recruitment,Oikotie,Variable,4912.96
+2025-04-08,Sales,Travel,Finnair,Variable,492.81
+2025-04-08,Marketing,Consulting,Local Consulting Oy,Variable,6812.61
+2025-04-09,Marketing,Advertising,Google Ads,Variable,3016.35
+2025-04-13,Marketing,Advertising,LinkedIn,Variable,1178.56
+2025-04-14,Operations,Equipment,Industrial Supply,Variable,5817.19
+2025-04-14,HR,Recruitment,LinkedIn,Variable,3693.42
+2025-04-14,Sales,Events,Messukeskus,Variable,4345.05
+2025-04-15,Operations,Supplies,Lyreco,Variable,509.06
+2025-04-16,Sales,Training,Coursera,Variable,1150.5
+2025-04-16,IT,Software,Adobe,Fixed,1809.13
+2025-04-16,Operations,Maintenance,FixIt Oy,Variable,788.22
+2025-04-16,Operations,Supplies,Lyreco,Variable,576.44
+2025-04-17,IT,Cloud services,AWS,Fixed,1609.16
+2025-04-18,Finance,Software,Adobe,Fixed,3589.2
+2025-04-18,Finance,Training,Udemy,Variable,2905.25
+2025-04-18,Marketing,Events,Conference Co,Variable,6250.41
+2025-04-19,Sales,Software,Microsoft,Fixed,1709.59
+2025-04-19,Marketing,Travel,Booking.com,Variable,480.18
+2025-04-20,Finance,Consulting,Accenture,Variable,6262.41
+2025-04-20,IT,Consulting,Deloitte,Variable,4031.25
+2025-04-21,HR,Recruitment,Recruit Partners,Variable,2744.02
+2025-04-22,Operations,Equipment,Fastems,Variable,6930.47
+2025-04-22,Operations,Maintenance,FixIt Oy,Variable,529.07
+2025-04-22,Operations,Supplies,Tokmanni,Variable,751.24
+2025-04-22,IT,Software,Microsoft,Fixed,974.56
+2025-04-23,HR,Consulting,Deloitte,Variable,3107.6
+2025-04-23,IT,Cloud services,Google Cloud,Fixed,4506.0
+2025-04-24,Sales,Travel,VR,Variable,1702.56
+2025-04-24,HR,Training,Udemy,Variable,1750.19
+2025-04-25,Sales,Travel,VR,Variable,1399.18
+2025-04-25,IT,Hardware,Dell,Variable,3271.07
+2025-04-25,IT,Software,Microsoft,Fixed,2561.85
+2025-04-26,Marketing,Software,Slack,Fixed,3749.01
+2025-04-27,IT,Cloud services,AWS,Fixed,1902.85
+2025-04-28,Operations,Maintenance,Kone,Variable,1067.25
+2025-04-28,Marketing,Advertising,Meta Ads,Variable,1195.69
+2025-04-28,Finance,Consulting,Accenture,Variable,5459.68
+2025-04-29,HR,Training,Local Academy,Variable,2088.06
+2025-04-30,Sales,Travel,Booking.com,Variable,1274.71
+2025-05-01,Finance,Software,Microsoft,Fixed,510.78
+2025-05-01,HR,Recruitment,LinkedIn,Variable,3562.59
+2025-05-01,Operations,Supplies,Staples,Variable,679.56
+2025-05-01,Sales,Events,Eventful Oy,Variable,8664.47
+2025-05-01,Marketing,Consulting,Local Consulting Oy,Variable,7964.7
+2025-05-02,HR,Recruitment,Oikotie,Variable,5195.81
+2025-05-03,Operations,Maintenance,Kone,Variable,740.69
+2025-05-03,Marketing,Advertising,LinkedIn,Variable,3480.23
+2025-05-04,Operations,Maintenance,ServiceCo,Variable,1939.55
+2025-05-05,IT,Software,Slack,Fixed,772.73
+2025-05-05,Marketing,Software,Atlassian,Fixed,4108.56
+2025-05-06,Marketing,Advertising,Meta Ads,Variable,6848.31
+2025-05-08,Finance,Training,Udemy,Variable,2540.41
+2025-05-09,Finance,Software,Adobe,Fixed,451.15
+2025-05-10,IT,Consulting,Accenture,Variable,2115.86
+2025-05-12,Marketing,Advertising,LinkedIn,Variable,3760.54
+2025-05-13,Sales,Training,Local Academy,Variable,2768.23
+2025-05-14,Marketing,Events,Eventful Oy,Variable,8085.35
+2025-05-14,Operations,Equipment,Fastems,Variable,1801.03
+2025-05-15,Sales,Travel,VR,Variable,1832.82
+2025-05-15,HR,Software,Microsoft,Fixed,3301.0
+2025-05-16,Operations,Supplies,Staples,Variable,596.82
+2025-05-16,IT,Software,Adobe,Fixed,1922.8
+2025-05-17,Sales,Travel,Finnair,Variable,1266.35
+2025-05-17,Operations,Supplies,Tokmanni,Variable,592.6
+2025-05-17,Operations,Maintenance,Kone,Variable,2370.2
+2025-05-20,HR,Training,Udemy,Variable,2820.16
+2025-05-22,HR,Recruitment,Oikotie,Variable,4436.68
+2025-05-23,Marketing,Advertising,Meta Ads,Variable,5452.68
+2025-05-23,Sales,Software,Slack,Fixed,737.54
+2025-05-23,Sales,Travel,Booking.com,Variable,877.86
+2025-05-23,IT,Cloud services,Azure,Fixed,4756.07
+2025-05-25,IT,Cloud services,Azure,Fixed,2205.47
+2025-05-25,IT,Software,Microsoft,Fixed,649.5
+2025-05-26,Operations,Travel,Booking.com,Variable,627.79
+2025-05-26,Finance,Consulting,Deloitte,Variable,6874.79
+2025-05-26,HR,Consulting,Accenture,Variable,7669.45
+2025-05-26,IT,Cloud services,Google Cloud,Fixed,2013.7
+2025-05-27,Operations,Equipment,Industrial Supply,Variable,6167.9
+2025-05-27,HR,Training,Udemy,Variable,909.29
+2025-05-28,Marketing,Travel,VR,Variable,453.98
+2025-05-29,IT,Hardware,Apple,Variable,4291.06
+2025-05-30,Finance,Consulting,Accenture,Variable,7223.7
+2025-05-31,Sales,Travel,VR,Variable,1237.02
+2025-05-31,Operations,Equipment,Industrial Supply,Variable,5715.75
+2025-06-01,IT,Software,Microsoft,Fixed,3749.91
+2025-06-02,Finance,Software,Microsoft,Fixed,3586.14
+2025-06-03,Sales,Travel,VR,Variable,1553.54
+2025-06-04,Marketing,Advertising,Google Ads,Variable,1440.2
+2025-06-04,HR,Training,Local Academy,Variable,1690.68
+2025-06-05,Marketing,Advertising,Google Ads,Variable,3994.51
+2025-06-05,Marketing,Travel,VR,Variable,694.5
+2025-06-06,HR,Recruitment,LinkedIn,Variable,3482.91
+2025-06-08,Marketing,Advertising,Meta Ads,Variable,6944.56
+2025-06-08,HR,Software,Atlassian,Fixed,3568.23
+2025-06-08,Sales,Training,Local Academy,Variable,1824.48
+2025-06-08,IT,Cloud services,Google Cloud,Fixed,2168.92
+2025-06-11,Operations,Supplies,Staples,Variable,239.08
+2025-06-12,IT,Software,Microsoft,Fixed,1028.03
+2025-06-12,HR,Consulting,Deloitte,Variable,1901.55
+2025-06-12,IT,Hardware,Apple,Variable,3059.49
+2025-06-13,IT,Consulting,Deloitte,Variable,6193.35
+2025-06-13,Marketing,Events,Messukeskus,Variable,4385.69
+2025-06-14,Operations,Maintenance,Kone,Variable,1287.48
+2025-06-14,IT,Software,Adobe,Fixed,987.6
+2025-06-15,Sales,Travel,VR,Variable,714.15
+2025-06-16,Operations,Maintenance,Kone,Variable,3659.28
+2025-06-16,HR,Recruitment,LinkedIn,Variable,2947.69
+2025-06-17,Finance,Consulting,Deloitte,Variable,2321.51
+2025-06-17,IT,Cloud services,Google Cloud,Fixed,3646.56
+2025-06-18,Sales,Software,Adobe,Fixed,1543.49
+2025-06-18,Sales,Events,Conference Co,Variable,6418.84
+2025-06-19,Marketing,Consulting,Deloitte,Variable,5540.76
+2025-06-21,Operations,Equipment,Fastems,Variable,2948.89
+2025-06-21,Marketing,Advertising,Meta Ads,Variable,3761.2
+2025-06-22,Operations,Equipment,Industrial Supply,Variable,2999.77
+2025-06-22,Finance,Consulting,Accenture,Variable,6508.79
+2025-06-22,Operations,Supplies,Staples,Variable,798.9
+2025-06-22,Operations,Equipment,Fastems,Variable,4583.82
+2025-06-23,HR,Training,Coursera,Variable,2561.62
+2025-06-23,Operations,Supplies,Lyreco,Variable,198.65
+2025-06-23,Operations,Travel,VR,Variable,1738.89
+2025-06-24,Operations,Maintenance,Kone,Variable,2654.23
+2025-06-25,Finance,Software,Microsoft,Fixed,1405.18
+2025-06-25,HR,Recruitment,Recruit Partners,Variable,4713.25
+2025-06-27,IT,Cloud services,Azure,Fixed,1480.02
+2025-06-28,Sales,Travel,Finnair,Variable,1189.9
+2025-06-28,Finance,Training,Udemy,Variable,2641.89
+2025-06-29,Marketing,Software,Atlassian,Fixed,1498.78
+2025-06-29,Sales,Travel,VR,Variable,939.8
+2025-07-01,Marketing,Advertising,Google Ads,Variable,2208.87
+2025-07-01,Operations,Maintenance,ServiceCo,Variable,355.23
+2025-07-03,Operations,Supplies,Tokmanni,Variable,129.42
+2025-07-04,Sales,Travel,Booking.com,Variable,1007.41
+2025-07-05,Operations,Equipment,Fastems,Variable,5557.34
+2025-07-06,Marketing,Advertising,Google Ads,Variable,3907.46
+2025-07-06,HR,Software,Adobe,Fixed,2803.65
+2025-07-07,Operations,Supplies,Lyreco,Variable,775.66
+2025-07-07,IT,Software,Slack,Fixed,4202.04
+2025-07-09,Finance,Consulting,Local Consulting Oy,Variable,6862.48
+2025-07-10,HR,Recruitment,Oikotie,Variable,648.41
+2025-07-10,IT,Cloud services,AWS,Fixed,4886.43
+2025-07-11,Sales,Travel,VR,Variable,2073.65
+2025-07-11,Operations,Supplies,Tokmanni,Variable,423.83
+2025-07-13,Operations,Equipment,Industrial Supply,Variable,7312.11
+2025-07-13,HR,Recruitment,Oikotie,Variable,2146.34
+2025-07-14,HR,Training,Udemy,Variable,1988.28
+2025-07-14,Sales,Travel,Booking.com,Variable,1621.53
+2025-07-15,IT,Cloud services,Azure,Fixed,1518.8
+2025-07-15,Finance,Consulting,Local Consulting Oy,Variable,1906.65
+2025-07-16,Operations,Maintenance,Kone,Variable,1924.97
+2025-07-16,Finance,Training,Local Academy,Variable,1518.18
+2025-07-17,Sales,Software,Microsoft,Fixed,1881.12
+2025-07-18,Marketing,Software,Adobe,Fixed,2946.54
+2025-07-18,HR,Training,Udemy,Variable,1037.17
+2025-07-19,HR,Recruitment,Recruit Partners,Variable,2667.95
+2025-07-19,Sales,Events,Messukeskus,Variable,5467.02
+2025-07-21,Finance,Software,Slack,Fixed,3144.57
+2025-07-21,Operations,Equipment,Toolmaster,Variable,5000.1
+2025-07-21,IT,Software,Microsoft,Fixed,2076.02
+2025-07-22,Sales,Travel,Booking.com,Variable,1416.44
+2025-07-23,HR,Consulting,Local Consulting Oy,Variable,5663.05
+2025-07-23,Marketing,Events,Messukeskus,Variable,5537.57
+2025-07-25,Marketing,Consulting,Local Consulting Oy,Variable,1491.16
+2025-07-26,IT,Cloud services,Google Cloud,Fixed,2779.18
+2025-07-27,Marketing,Advertising,LinkedIn,Variable,4922.99
+2025-07-27,IT,Hardware,Lenovo,Variable,801.66
+2025-07-28,Finance,Software,Atlassian,Fixed,3304.34
+2025-07-28,Marketing,Travel,VR,Variable,2262.6
+2025-07-28,Operations,Travel,Booking.com,Variable,1317.25
+2025-07-29,IT,Software,Slack,Fixed,2498.51
+2025-07-30,IT,Consulting,Accenture,Variable,2787.76
+2025-07-31,Operations,Maintenance,Kone,Variable,1424.03
+2025-07-31,Marketing,Advertising,Meta Ads,Variable,3928.77
+2025-07-31,Sales,Training,Local Academy,Variable,2084.31
+2025-08-01,Operations,Equipment,Fastems,Variable,4393.24
+2025-08-03,HR,Recruitment,Oikotie,Variable,1507.53
+2025-08-04,Marketing,Travel,Finnair,Variable,2389.75
+2025-08-04,IT,Consulting,Deloitte,Variable,7497.36
+2025-08-06,Operations,Equipment,Fastems,Variable,6602.41
+2025-08-06,Sales,Software,Slack,Fixed,3095.79
+2025-08-06,Operations,Supplies,Lyreco,Variable,146.17
+2025-08-08,Operations,Travel,Booking.com,Variable,2429.97
+2025-08-08,IT,Software,Microsoft,Fixed,1796.53
+2025-08-08,Operations,Maintenance,Kone,Variable,2981.68
+2025-08-09,Operations,Supplies,Tokmanni,Variable,221.92
+2025-08-09,Marketing,Advertising,LinkedIn,Variable,740.92
+2025-08-09,IT,Software,Slack,Fixed,3577.61
+2025-08-11,HR,Recruitment,Oikotie,Variable,2294.3
+2025-08-12,IT,Cloud services,AWS,Fixed,1910.0
+2025-08-12,Finance,Software,Microsoft,Fixed,1609.03
+2025-08-13,Marketing,Software,Slack,Fixed,1698.86
+2025-08-14,HR,Software,Atlassian,Fixed,4118.51
+2025-08-14,Operations,Supplies,Lyreco,Variable,922.39
+2025-08-14,Marketing,Advertising,Google Ads,Variable,4114.25
+2025-08-14,Sales,Travel,Booking.com,Variable,2671.84
+2025-08-16,HR,Recruitment,Recruit Partners,Variable,2927.65
+2025-08-17,Sales,Events,Eventful Oy,Variable,5899.93
+2025-08-18,HR,Training,Udemy,Variable,1572.03
+2025-08-19,Marketing,Advertising,LinkedIn,Variable,2187.91
+2025-08-20,Sales,Travel,Finnair,Variable,1186.27
+2025-08-20,Operations,Maintenance,FixIt Oy,Variable,1895.66
+2025-08-20,Finance,Training,Coursera,Variable,1110.95
+2025-08-21,Sales,Travel,VR,Variable,1965.0
+2025-08-21,IT,Cloud services,Google Cloud,Fixed,4745.36
+2025-08-22,Marketing,Events,Messukeskus,Variable,4338.75
+2025-08-23,IT,Cloud services,Google Cloud,Fixed,4455.12
+2025-08-23,Sales,Training,Coursera,Variable,1389.54
+2025-08-24,Marketing,Advertising,Meta Ads,Variable,6764.14
+2025-08-25,Marketing,Consulting,Local Consulting Oy,Variable,3309.09
+2025-08-27,Operations,Equipment,Fastems,Variable,2705.44
+2025-08-27,Sales,Travel,Finnair,Variable,373.76
+2025-08-28,Finance,Consulting,Local Consulting Oy,Variable,5036.27
+2025-08-29,IT,Hardware,Apple,Variable,4671.16
+2025-08-30,HR,Consulting,Local Consulting Oy,Variable,5121.02
+2025-08-30,HR,Training,Coursera,Variable,1242.5
+2025-08-30,Operations,Maintenance,Kone,Variable,2596.0
+2025-08-30,IT,Software,Microsoft,Fixed,753.65
+2025-08-31,Finance,Consulting,Local Consulting Oy,Variable,5494.68
+2025-08-31,Finance,Software,Atlassian,Fixed,3872.21
+2025-09-01,Sales,Training,Local Academy,Variable,244.0
+2025-09-01,Marketing,Consulting,Accenture,Variable,4340.83
+2025-09-02,IT,Hardware,Dell,Variable,727.41
+2025-09-04,Operations,Travel,Booking.com,Variable,1669.14
+2025-09-04,Marketing,Software,Adobe,Fixed,2280.05
+2025-09-05,IT,Software,Microsoft,Fixed,4159.26
+2025-09-05,HR,Recruitment,Oikotie,Variable,3553.93
+2025-09-05,Marketing,Advertising,Google Ads,Variable,1326.73
+2025-09-07,HR,Training,Coursera,Variable,2784.69
+2025-09-08,Operations,Supplies,Staples,Variable,185.93
+2025-09-09,Operations,Equipment,Fastems,Variable,3383.18
+2025-09-09,Finance,Software,Atlassian,Fixed,3995.5
+2025-09-10,Operations,Maintenance,Kone,Variable,1346.33
+2025-09-12,Operations,Maintenance,ServiceCo,Variable,805.8
+2025-09-13,Marketing,Advertising,LinkedIn,Variable,548.66
+2025-09-14,Marketing,Advertising,Google Ads,Variable,2660.54
+2025-09-15,HR,Recruitment,Oikotie,Variable,3306.37
+2025-09-15,Sales,Travel,Finnair,Variable,1331.43
+2025-09-15,HR,Training,Udemy,Variable,2796.59
+2025-09-15,Marketing,Advertising,Meta Ads,Variable,3464.6
+2025-09-16,HR,Software,Adobe,Fixed,974.32
+2025-09-16,Marketing,Travel,Finnair,Variable,980.48
+2025-09-17,Finance,Software,Atlassian,Fixed,2735.28
+2025-09-17,Finance,Training,Local Academy,Variable,2032.62
+2025-09-17,Marketing,Events,Conference Co,Variable,8313.7
+2025-09-18,Sales,Travel,Finnair,Variable,1379.89
+2025-09-19,Sales,Software,Microsoft,Fixed,876.27
+2025-09-20,Operations,Maintenance,Kone,Variable,2739.64
+2025-09-20,Operations,Equipment,Fastems,Variable,988.76
+2025-09-21,Operations,Supplies,Tokmanni,Variable,212.76
+2025-09-23,Finance,Consulting,Local Consulting Oy,Variable,3487.1
+2025-09-23,IT,Software,Microsoft,Fixed,488.15
+2025-09-23,Sales,Travel,Finnair,Variable,2523.32
+2025-09-24,IT,Cloud services,AWS,Fixed,1095.16
+2025-09-24,Operations,Supplies,Lyreco,Variable,964.45
+2025-09-24,IT,Software,Adobe,Fixed,2054.16
+2025-09-24,IT,Consulting,Accenture,Variable,6358.31
+2025-09-26,Operations,Equipment,Fastems,Variable,2901.7
+2025-09-26,Sales,Events,Conference Co,Variable,2196.42
+2025-09-26,Sales,Travel,Booking.com,Variable,741.31
+2025-09-26,IT,Cloud services,AWS,Fixed,2608.11
+2025-09-27,HR,Consulting,Local Consulting Oy,Variable,7547.52
+2025-09-28,Finance,Consulting,Local Consulting Oy,Variable,3813.21
+2025-09-28,HR,Recruitment,Oikotie,Variable,692.04
+2025-09-30,IT,Cloud services,Azure,Fixed,3204.97
+2025-10-02,Marketing,Advertising,Meta Ads,Variable,2511.17
+2025-10-02,Operations,Maintenance,FixIt Oy,Variable,4200.68
+2025-10-03,Operations,Equipment,Fastems,Variable,3622.06
+2025-10-03,HR,Recruitment,Recruit Partners,Variable,4750.91
+2025-10-03,IT,Hardware,Apple,Variable,4207.18
+2025-10-05,Marketing,Events,Messukeskus,Variable,6292.04
+2025-10-05,IT,Cloud services,AWS,Fixed,4496.57
+2025-10-06,IT,Cloud services,Azure,Fixed,2441.05
+2025-10-07,Finance,Software,Slack,Fixed,2125.23
+2025-10-08,Sales,Training,Udemy,Variable,1899.61
+2025-10-09,IT,Software,Microsoft,Fixed,452.95
+2025-10-09,Sales,Events,Eventful Oy,Variable,3053.83
+2025-10-09,Marketing,Consulting,Local Consulting Oy,Variable,9882.49
+2025-10-11,Operations,Maintenance,ServiceCo,Variable,3082.43
+2025-10-11,Operations,Supplies,Staples,Variable,277.99
+2025-10-11,Finance,Training,Coursera,Variable,2289.86
+2025-10-12,Operations,Equipment,Toolmaster,Variable,5479.94
+2025-10-12,Operations,Maintenance,FixIt Oy,Variable,793.04
+2025-10-12,Sales,Travel,VR,Variable,1389.77
+2025-10-13,IT,Software,Microsoft,Fixed,4537.69
+2025-10-14,Finance,Software,Adobe,Fixed,483.37
+2025-10-14,HR,Training,Udemy,Variable,3423.47
+2025-10-15,Operations,Supplies,Tokmanni,Variable,1001.4
+2025-10-15,Sales,Travel,Finnair,Variable,3020.49
+2025-10-16,HR,Consulting,Accenture,Variable,3046.98
+2025-10-17,HR,Training,Local Academy,Variable,2251.05
+2025-10-17,Marketing,Software,Adobe,Fixed,3005.48
+2025-10-17,Marketing,Advertising,Meta Ads,Variable,6147.83
+2025-10-18,IT,Software,Slack,Fixed,3087.58
+2025-10-18,Operations,Equipment,Industrial Supply,Variable,4370.23
+2025-10-20,Marketing,Advertising,Meta Ads,Variable,5136.86
+2025-10-20,Finance,Consulting,Deloitte,Variable,4053.73
+2025-10-21,Sales,Travel,VR,Variable,2198.72
+2025-10-21,HR,Recruitment,LinkedIn,Variable,3543.13
+2025-10-22,HR,Software,Slack,Fixed,4077.59
+2025-10-23,Operations,Travel,Finnair,Variable,479.43
+2025-10-23,IT,Cloud services,AWS,Fixed,4133.02
+2025-10-25,Finance,Consulting,Local Consulting Oy,Variable,9041.49
+2025-10-27,Marketing,Advertising,LinkedIn,Variable,2693.54
+2025-10-28,HR,Recruitment,Recruit Partners,Variable,5581.39
+2025-10-29,Sales,Software,Slack,Fixed,4608.56
+2025-10-30,Marketing,Travel,Finnair,Variable,2532.91
+2025-10-30,Sales,Travel,Finnair,Variable,2808.71
+2025-10-31,Operations,Supplies,Staples,Variable,618.87
+2025-10-31,IT,Consulting,Local Consulting Oy,Variable,1412.85
+2025-11-01,Sales,Travel,Booking.com,Variable,804.55
+2025-11-01,HR,Software,Slack,Fixed,2802.41
+2025-11-01,Operations,Equipment,Fastems,Variable,5583.27
+2025-11-02,Sales,Training,Coursera,Variable,1121.71
+2025-11-02,HR,Training,Local Academy,Variable,3398.26
+2025-11-02,IT,Software,Atlassian,Fixed,1593.81
+2025-11-03,IT,Software,Slack,Fixed,3433.62
+2025-11-03,Operations,Maintenance,FixIt Oy,Variable,1924.68
+2025-11-04,IT,Software,Microsoft,Fixed,2633.12
+2025-11-05,Operations,Equipment,Fastems,Variable,756.93
+2025-11-06,Finance,Consulting,Local Consulting Oy,Variable,5533.38
+2025-11-07,Sales,Travel,Booking.com,Variable,488.2
+2025-11-08,IT,Cloud services,AWS,Fixed,2578.13
+2025-11-09,HR,Consulting,Deloitte,Variable,5955.9
+2025-11-10,HR,Training,Udemy,Variable,824.16
+2025-11-10,IT,Cloud services,Google Cloud,Fixed,5669.96
+2025-11-11,Finance,Software,Microsoft,Fixed,967.67
+2025-11-12,Finance,Training,Coursera,Variable,988.73
+2025-11-12,Finance,Software,Adobe,Fixed,2413.47
+2025-11-12,Sales,Events,Eventful Oy,Variable,9792.52
+2025-11-12,Operations,Equipment,Fastems,Variable,8160.77
+2025-11-12,Marketing,Events,Messukeskus,Variable,8637.5
+2025-11-13,Marketing,Advertising,Google Ads,Variable,7587.07
+2025-11-14,Marketing,Consulting,Accenture,Variable,8808.87
+2025-11-16,Operations,Maintenance,FixIt Oy,Variable,1034.63
+2025-11-16,Marketing,Software,Microsoft,Fixed,1564.86
+2025-11-17,HR,Recruitment,LinkedIn,Variable,2046.55
+2025-11-18,HR,Recruitment,Recruit Partners,Variable,2564.09
+2025-11-18,Marketing,Advertising,Google Ads,Variable,1765.51
+2025-11-19,Sales,Software,Microsoft,Fixed,2315.2
+2025-11-19,IT,Consulting,Local Consulting Oy,Variable,9703.81
+2025-11-19,Sales,Travel,Booking.com,Variable,548.43
+2025-11-21,Operations,Supplies,Lyreco,Variable,117.13
+2025-11-21,IT,Hardware,Lenovo,Variable,1177.65
+2025-11-23,Marketing,Travel,Finnair,Variable,1293.39
+2025-11-23,Marketing,Advertising,Meta Ads,Variable,5092.09
+2025-11-24,IT,Cloud services,Google Cloud,Fixed,6243.01
+2025-11-25,Operations,Travel,Booking.com,Variable,1583.25
+2025-11-26,Sales,Travel,VR,Variable,2449.08
+2025-11-26,Operations,Maintenance,Kone,Variable,3669.03
+2025-11-26,Finance,Consulting,Local Consulting Oy,Variable,2713.47
+2025-11-26,Operations,Supplies,Staples,Variable,1053.2
+2025-11-27,HR,Recruitment,Recruit Partners,Variable,5478.72
+2025-11-28,Operations,Supplies,Lyreco,Variable,917.49
+2025-11-29,Marketing,Advertising,Google Ads,Variable,5178.71
+2025-12-02,Operations,Equipment,Fastems,Variable,8734.38
+2025-12-03,Marketing,Consulting,Local Consulting Oy,Variable,8836.0
+2025-12-03,Marketing,Advertising,Meta Ads,Variable,8521.14
+2025-12-05,HR,Training,Coursera,Variable,2624.67
+2025-12-05,Marketing,Advertising,LinkedIn,Variable,3286.37
+2025-12-07,IT,Software,Slack,Fixed,2451.6
+2025-12-09,Sales,Travel,Booking.com,Variable,1785.6
+2025-12-09,Marketing,Travel,Booking.com,Variable,2440.16
+2025-12-09,Finance,Consulting,Accenture,Variable,7305.61
+2025-12-09,IT,Hardware,Lenovo,Variable,399.75
+2025-12-10,Marketing,Advertising,Meta Ads,Variable,5614.07
+2025-12-10,HR,Training,Udemy,Variable,1422.44
+2025-12-11,Sales,Training,Coursera,Variable,2568.06
+2025-12-12,Operations,Travel,VR,Variable,2999.08
+2025-12-12,Sales,Travel,Booking.com,Variable,1290.4
+2025-12-13,Marketing,Advertising,LinkedIn,Variable,4464.11
+2025-12-13,HR,Recruitment,LinkedIn,Variable,2982.8
+2025-12-14,Operations,Supplies,Lyreco,Variable,426.34
+2025-12-15,HR,Recruitment,LinkedIn,Variable,1360.92
+2025-12-17,Marketing,Software,Atlassian,Fixed,1220.04
+2025-12-17,Operations,Maintenance,ServiceCo,Variable,1940.54
+2025-12-17,Operations,Maintenance,FixIt Oy,Variable,3142.63
+2025-12-18,IT,Cloud services,Google Cloud,Fixed,2527.17
+2025-12-19,Marketing,Events,Eventful Oy,Variable,5727.64
+2025-12-19,Sales,Software,Adobe,Fixed,4667.16
+2025-12-20,IT,Software,Slack,Fixed,1384.02
+2025-12-21,IT,Software,Adobe,Fixed,3929.2
+2025-12-22,Operations,Maintenance,Kone,Variable,2825.85
+2025-12-23,Sales,Travel,Booking.com,Variable,1400.8
+2025-12-24,Operations,Equipment,Industrial Supply,Variable,5650.3
+2025-12-24,Operations,Equipment,Fastems,Variable,5780.19
+2025-12-24,Sales,Travel,VR,Variable,1098.85
+2025-12-25,HR,Software,Microsoft,Fixed,4058.2
+2025-12-25,IT,Consulting,Deloitte,Variable,4787.5
+2025-12-25,IT,Cloud services,AWS,Fixed,1837.87
+2025-12-26,HR,Recruitment,Oikotie,Variable,4472.48
+2025-12-27,Operations,Supplies,Tokmanni,Variable,413.44
+2025-12-27,Operations,Supplies,Lyreco,Variable,595.3
+2025-12-28,Finance,Software,Atlassian,Fixed,1037.82
+2025-12-28,Sales,Events,Messukeskus,Variable,8555.38
+2025-12-28,IT,Cloud services,AWS,Fixed,3478.08
+2025-12-29,Finance,Consulting,Local Consulting Oy,Variable,3086.14
+2025-12-29,Finance,Software,Adobe,Fixed,993.94
+2025-12-30,HR,Consulting,Local Consulting Oy,Variable,3480.71
+2025-12-30,Finance,Training,Coursera,Variable,2762.21
+2026-01-01,HR,Recruitment,Recruit Partners,Variable,3162.96
+2026-01-01,Operations,Supplies,Staples,Variable,875.48
+2026-01-03,Operations,Maintenance,FixIt Oy,Variable,3087.01
+2026-01-04,Operations,Maintenance,ServiceCo,Variable,2634.74
+2026-01-04,IT,Cloud services,Azure,Fixed,3043.15
+2026-01-04,HR,Training,Udemy,Variable,2506.52
+2026-01-04,HR,Training,Local Academy,Variable,1222.27
+2026-01-05,Sales,Training,Coursera,Variable,1955.65
+2026-01-06,Finance,Training,Coursera,Variable,3024.55
+2026-01-07,HR,Consulting,Accenture,Variable,6390.55
+2026-01-07,Sales,Events,Messukeskus,Variable,1923.18
+2026-01-08,Sales,Travel,Finnair,Variable,2496.92
+2026-01-08,Finance,Consulting,Local Consulting Oy,Variable,7402.89
+2026-01-08,HR,Recruitment,LinkedIn,Variable,4018.26
+2026-01-08,Marketing,Software,Microsoft,Fixed,3544.85
+2026-01-09,Operations,Supplies,Tokmanni,Variable,569.07
+2026-01-09,Operations,Equipment,Fastems,Variable,6946.08
+2026-01-09,Marketing,Advertising,Google Ads,Variable,6500.89
+2026-01-09,Sales,Travel,Booking.com,Variable,351.29
+2026-01-10,HR,Software,Atlassian,Fixed,2096.28
+2026-01-10,Operations,Equipment,Toolmaster,Variable,947.1
+2026-01-10,Marketing,Advertising,LinkedIn,Variable,1780.85
+2026-01-12,Marketing,Advertising,Google Ads,Variable,3007.03
+2026-01-13,Sales,Travel,VR,Variable,2623.39
+2026-01-14,Marketing,Events,Conference Co,Variable,2664.75
+2026-01-15,Marketing,Advertising,LinkedIn,Variable,6669.19
+2026-01-15,Operations,Supplies,Tokmanni,Variable,144.3
+2026-01-15,IT,Consulting,Deloitte,Variable,4334.26
+2026-01-16,Operations,Maintenance,ServiceCo,Variable,225.92
+2026-01-19,Marketing,Consulting,Accenture,Variable,4178.09
+2026-01-20,IT,Cloud services,AWS,Fixed,2108.73
+2026-01-22,IT,Cloud services,AWS,Fixed,3929.23
+2026-01-22,Finance,Software,Slack,Fixed,3739.18
+2026-01-23,Sales,Software,Slack,Fixed,1066.82
+2026-01-24,Operations,Travel,Booking.com,Variable,610.18
+2026-01-24,Finance,Software,Atlassian,Fixed,3599.25
+2026-01-25,HR,Recruitment,LinkedIn,Variable,5559.89
+2026-01-26,IT,Software,Microsoft,Fixed,4118.11
+2026-01-29,Operations,Equipment,Fastems,Variable,1582.86
+2026-01-30,Sales,Travel,Finnair,Variable,2249.22
+2026-01-30,Finance,Consulting,Deloitte,Variable,3640.92
+2026-01-30,IT,Software,Slack,Fixed,3423.24
+2026-01-30,Marketing,Travel,Finnair,Variable,1280.81
+2026-01-30,IT,Software,Slack,Fixed,3830.73
+2026-01-31,IT,Hardware,Apple,Variable,5204.38
+2026-02-01,Finance,Consulting,Accenture,Variable,1914.33
+2026-02-01,Marketing,Travel,VR,Variable,1632.44
+2026-02-02,Operations,Travel,Finnair,Variable,1814.77
+2026-02-02,Marketing,Advertising,Meta Ads,Variable,7839.4
+2026-02-03,HR,Software,Atlassian,Fixed,2329.54
+2026-02-05,IT,Consulting,Accenture,Variable,7640.78
+2026-02-05,HR,Recruitment,Oikotie,Variable,3433.42
+2026-02-06,IT,Software,Adobe,Fixed,3475.86
+2026-02-06,Marketing,Advertising,Meta Ads,Variable,3450.98
+2026-02-06,Marketing,Advertising,LinkedIn,Variable,7730.75
+2026-02-08,Sales,Events,Conference Co,Variable,8563.38
+2026-02-10,Operations,Equipment,Toolmaster,Variable,864.21
+2026-02-10,Sales,Software,Adobe,Fixed,1950.23
+2026-02-10,Finance,Software,Microsoft,Fixed,2788.11
+2026-02-11,Sales,Travel,Booking.com,Variable,2056.32
+2026-02-11,HR,Recruitment,Oikotie,Variable,1644.43
+2026-02-12,Operations,Supplies,Staples,Variable,875.21
+2026-02-12,IT,Software,Atlassian,Fixed,3423.73
+2026-02-12,Finance,Consulting,Accenture,Variable,4473.83
+2026-02-12,IT,Cloud services,AWS,Fixed,1892.97
+2026-02-13,Sales,Travel,Finnair,Variable,300.84
+2026-02-13,Finance,Software,Microsoft,Fixed,3180.1
+2026-02-15,Finance,Training,Udemy,Variable,652.17
+2026-02-15,Operations,Equipment,Toolmaster,Variable,2426.93
+2026-02-17,IT,Software,Atlassian,Fixed,3484.49
+2026-02-17,HR,Training,Local Academy,Variable,2270.86
+2026-02-18,Sales,Travel,Finnair,Variable,1281.24
+2026-02-18,Marketing,Consulting,Accenture,Variable,6319.54
+2026-02-18,HR,Recruitment,Recruit Partners,Variable,901.01
+2026-02-19,Operations,Equipment,Industrial Supply,Variable,2841.52
+2026-02-19,IT,Cloud services,Google Cloud,Fixed,1468.35
+2026-02-20,Operations,Supplies,Lyreco,Variable,1013.81
+2026-02-20,Operations,Maintenance,ServiceCo,Variable,626.51
+2026-02-21,IT,Hardware,Lenovo,Variable,2708.67
+2026-02-22,HR,Training,Udemy,Variable,3042.8
+2026-02-22,IT,Cloud services,AWS,Fixed,1740.68
+2026-02-22,Sales,Training,Udemy,Variable,1877.35
+2026-02-23,Operations,Maintenance,Kone,Variable,3692.73
+2026-02-24,Marketing,Advertising,Google Ads,Variable,5365.25
+2026-02-24,HR,Consulting,Local Consulting Oy,Variable,1600.54
+2026-02-27,Marketing,Events,Eventful Oy,Variable,7711.96
+2026-02-27,Sales,Travel,VR,Variable,1460.58
+2026-02-27,Operations,Supplies,Tokmanni,Variable,843.93
+2026-02-27,Marketing,Software,Slack,Fixed,1143.01
+2026-02-27,Operations,Maintenance,FixIt Oy,Variable,991.9
+2026-03-02,Finance,Training,Udemy,Variable,740.6
+2026-03-02,IT,Software,Atlassian,Fixed,4343.39
+2026-03-03,IT,Software,Adobe,Fixed,3742.51
+2026-03-03,Operations,Equipment,Industrial Supply,Variable,6893.85
+2026-03-04,Operations,Supplies,Lyreco,Variable,171.73
+2026-03-04,Operations,Maintenance,ServiceCo,Variable,3278.84
+2026-03-06,HR,Recruitment,LinkedIn,Variable,4001.7
+2026-03-07,Marketing,Advertising,Google Ads,Variable,1335.33
+2026-03-07,Operations,Equipment,Toolmaster,Variable,7719.79
+2026-03-08,Finance,Software,Atlassian,Fixed,2306.56
+2026-03-09,Marketing,Events,Messukeskus,Variable,6221.05
+2026-03-09,IT,Cloud services,Google Cloud,Fixed,2734.95
+2026-03-11,IT,Cloud services,Azure,Fixed,3275.7
+2026-03-11,Sales,Travel,VR,Variable,1030.2
+2026-03-11,HR,Consulting,Local Consulting Oy,Variable,7940.12
+2026-03-12,Marketing,Software,Slack,Fixed,4276.46
+2026-03-12,Marketing,Travel,VR,Variable,1935.8
+2026-03-14,Operations,Equipment,Industrial Supply,Variable,4192.35
+2026-03-14,Marketing,Advertising,Meta Ads,Variable,5261.64
+2026-03-14,IT,Software,Microsoft,Fixed,2034.54
+2026-03-15,IT,Consulting,Accenture,Variable,3702.26
+2026-03-15,Finance,Software,Microsoft,Fixed,3660.09
+2026-03-16,Operations,Travel,VR,Variable,1683.01
+2026-03-16,Sales,Travel,Booking.com,Variable,1213.39
+2026-03-17,Sales,Travel,Finnair,Variable,615.88
+2026-03-17,Sales,Training,Local Academy,Variable,3188.6
+2026-03-18,Marketing,Advertising,Meta Ads,Variable,3598.24
+2026-03-20,HR,Training,Udemy,Variable,2399.9
+2026-03-20,Operations,Supplies,Tokmanni,Variable,645.39
+2026-03-23,Marketing,Consulting,Deloitte,Variable,3767.51
+2026-03-24,Sales,Software,Slack,Fixed,1427.81
+2026-03-25,IT,Cloud services,Azure,Fixed,3711.8
+2026-03-25,Marketing,Advertising,LinkedIn,Variable,4936.94
+2026-03-27,Sales,Events,Eventful Oy,Variable,6171.86
+2026-03-27,Operations,Maintenance,ServiceCo,Variable,2463.65
+2026-03-27,HR,Recruitment,LinkedIn,Variable,5309.61
+2026-03-29,Operations,Supplies,Lyreco,Variable,415.51
+2026-03-29,HR,Software,Adobe,Fixed,453.91
+2026-03-29,HR,Training,Coursera,Variable,242.74
+2026-03-29,IT,Hardware,Dell,Variable,6701.16
+2026-03-30,Finance,Consulting,Accenture,Variable,8152.53
+2026-03-30,Operations,Maintenance,Kone,Variable,1636.73
+2026-03-31,HR,Recruitment,Oikotie,Variable,5420.52
+2026-03-31,Sales,Travel,VR,Variable,1185.25
+2026-03-31,Finance,Consulting,Deloitte,Variable,5649.32
+2026-04-01,Sales,Training,Local Academy,Variable,731.54
+2026-04-03,IT,Software,Atlassian,Fixed,1637.65
+2026-04-03,Operations,Travel,Finnair,Variable,598.21
+2026-04-04,Operations,Maintenance,ServiceCo,Variable,523.87
+2026-04-05,Marketing,Travel,VR,Variable,269.52
+2026-04-06,Marketing,Advertising,Meta Ads,Variable,6622.05
+2026-04-06,Marketing,Advertising,Google Ads,Variable,7656.22
+2026-04-06,HR,Software,Slack,Fixed,746.19
+2026-04-06,HR,Training,Local Academy,Variable,1230.31
+2026-04-06,Operations,Maintenance,Kone,Variable,2553.38
+2026-04-07,Sales,Travel,VR,Variable,2857.55
+2026-04-07,Sales,Travel,Booking.com,Variable,988.02
+2026-04-09,Operations,Equipment,Toolmaster,Variable,3431.54
+2026-04-10,Finance,Consulting,Deloitte,Variable,5525.14
+2026-04-10,Sales,Events,Conference Co,Variable,8817.4
+2026-04-13,Marketing,Software,Slack,Fixed,688.53
+2026-04-14,Operations,Equipment,Toolmaster,Variable,3392.33
+2026-04-14,IT,Cloud services,Google Cloud,Fixed,1709.18
+2026-04-14,Operations,Equipment,Industrial Supply,Variable,4125.5
+2026-04-15,Sales,Travel,Booking.com,Variable,281.68
+2026-04-16,Sales,Travel,Booking.com,Variable,294.42
+2026-04-17,Finance,Software,Slack,Fixed,4497.44
+2026-04-18,Marketing,Consulting,Deloitte,Variable,8164.84
+2026-04-18,Operations,Maintenance,Kone,Variable,1922.85
+2026-04-18,Marketing,Advertising,Google Ads,Variable,3147.45
+2026-04-18,IT,Consulting,Deloitte,Variable,5354.12
+2026-04-19,Finance,Consulting,Accenture,Variable,7556.1
+2026-04-19,Finance,Software,Slack,Fixed,4359.09
+2026-04-19,IT,Cloud services,Google Cloud,Fixed,2739.63
+2026-04-20,Operations,Supplies,Tokmanni,Variable,1012.71
+2026-04-21,HR,Consulting,Local Consulting Oy,Variable,6848.14
+2026-04-22,HR,Recruitment,LinkedIn,Variable,5313.98
+2026-04-22,IT,Software,Slack,Fixed,446.99
+2026-04-24,HR,Recruitment,LinkedIn,Variable,901.63
+2026-04-24,IT,Cloud services,Azure,Fixed,1113.66
+2026-04-24,HR,Training,Udemy,Variable,1151.07
+2026-04-25,Operations,Supplies,Staples,Variable,561.65
+2026-04-26,Operations,Supplies,Staples,Variable,1011.28
+2026-04-27,HR,Recruitment,LinkedIn,Variable,2630.68
+2026-04-27,Marketing,Events,Messukeskus,Variable,4965.72
+2026-04-27,IT,Software,Slack,Fixed,3909.49
+2026-04-28,Sales,Software,Microsoft,Fixed,599.55
+2026-04-28,Marketing,Advertising,Google Ads,Variable,1618.69
+2026-04-29,Finance,Training,Local Academy,Variable,3359.21
+2026-04-29,IT,Hardware,Lenovo,Variable,3384.39
+2026-05-02,Finance,Consulting,Local Consulting Oy,Variable,4892.84
+2026-05-02,IT,Software,Microsoft,Fixed,558.81
+2026-05-04,IT,Consulting,Deloitte,Variable,1895.5
+2026-05-04,Sales,Travel,VR,Variable,1476.88
+2026-05-05,IT,Software,Microsoft,Fixed,2788.3
+2026-05-06,Marketing,Consulting,Deloitte,Variable,3016.6
+2026-05-06,HR,Software,Slack,Fixed,3056.53
+2026-05-06,Operations,Supplies,Tokmanni,Variable,230.73
+2026-05-06,Marketing,Software,Adobe,Fixed,3235.89
+2026-05-06,Operations,Travel,Booking.com,Variable,2247.25
+2026-05-07,Operations,Equipment,Industrial Supply,Variable,2550.92
+2026-05-10,HR,Consulting,Deloitte,Variable,6539.74
+2026-05-11,Operations,Equipment,Fastems,Variable,1984.36
+2026-05-11,Marketing,Advertising,LinkedIn,Variable,4655.19
+2026-05-12,Operations,Equipment,Toolmaster,Variable,6185.1
+2026-05-12,IT,Software,Microsoft,Fixed,619.81
+2026-05-12,IT,Hardware,Apple,Variable,3900.09
+2026-05-13,Operations,Maintenance,ServiceCo,Variable,2258.51
+2026-05-14,Marketing,Advertising,Google Ads,Variable,2998.34
+2026-05-15,Marketing,Advertising,Google Ads,Variable,3881.33
+2026-05-16,HR,Recruitment,Recruit Partners,Variable,3062.43
+2026-05-16,IT,Cloud services,Google Cloud,Fixed,3937.87
+2026-05-17,Sales,Travel,VR,Variable,1559.33
+2026-05-17,Finance,Training,Udemy,Variable,2652.42
+2026-05-18,Operations,Maintenance,ServiceCo,Variable,3891.75
+2026-05-19,HR,Recruitment,Recruit Partners,Variable,3028.21
+2026-05-20,Finance,Consulting,Local Consulting Oy,Variable,5266.79
+2026-05-20,Marketing,Advertising,LinkedIn,Variable,3432.46
+2026-05-21,IT,Cloud services,Azure,Fixed,1911.5
+2026-05-21,IT,Cloud services,Google Cloud,Fixed,5550.76
+2026-05-22,Finance,Software,Atlassian,Fixed,2172.45
+2026-05-23,Sales,Software,Adobe,Fixed,1326.44
+2026-05-23,HR,Training,Coursera,Variable,2771.15
+2026-05-23,HR,Recruitment,Oikotie,Variable,4871.95
+2026-05-23,Sales,Training,Coursera,Variable,397.11
+2026-05-23,Marketing,Travel,Booking.com,Variable,686.23
+2026-05-24,Marketing,Events,Conference Co,Variable,2534.32
+2026-05-24,Operations,Supplies,Lyreco,Variable,529.71
+2026-05-25,Operations,Maintenance,ServiceCo,Variable,988.67
+2026-05-25,Finance,Software,Adobe,Fixed,4470.84
+2026-05-25,Operations,Supplies,Staples,Variable,327.6
+2026-05-26,Sales,Travel,Finnair,Variable,1530.59
+2026-05-29,HR,Training,Coursera,Variable,2304.02
+2026-05-29,Sales,Events,Messukeskus,Variable,1563.65
+2026-05-30,Sales,Travel,VR,Variable,2885.87
+2026-06-01,Operations,Maintenance,FixIt Oy,Variable,1903.94
+2026-06-02,Marketing,Consulting,Local Consulting Oy,Variable,5248.06
+2026-06-02,Finance,Consulting,Local Consulting Oy,Variable,6750.09
+2026-06-04,IT,Cloud services,Google Cloud,Fixed,3138.65
+2026-06-04,HR,Training,Coursera,Variable,1112.25
+2026-06-04,HR,Recruitment,Recruit Partners,Variable,2240.04
+2026-06-05,IT,Software,Microsoft,Fixed,2433.78
+2026-06-06,Marketing,Advertising,Google Ads,Variable,2659.68
+2026-06-06,HR,Recruitment,Recruit Partners,Variable,5048.86
+2026-06-07,Finance,Software,Microsoft,Fixed,601.85
+2026-06-07,IT,Consulting,Deloitte,Variable,4380.97
+2026-06-07,Finance,Training,Local Academy,Variable,1101.2
+2026-06-08,IT,Software,Atlassian,Fixed,901.98
+2026-06-08,IT,Hardware,Apple,Variable,5339.35
+2026-06-09,Operations,Equipment,Industrial Supply,Variable,6757.37
+2026-06-11,Marketing,Advertising,Google Ads,Variable,3922.24
+2026-06-11,Operations,Maintenance,Kone,Variable,1255.61
+2026-06-11,IT,Cloud services,Azure,Fixed,1802.61
+2026-06-11,Operations,Supplies,Tokmanni,Variable,96.93
+2026-06-13,HR,Software,Atlassian,Fixed,2762.26
+2026-06-13,Operations,Equipment,Fastems,Variable,2600.87
+2026-06-14,IT,Cloud services,Google Cloud,Fixed,2119.06
+2026-06-14,Sales,Travel,Booking.com,Variable,2673.72
+2026-06-15,Sales,Events,Messukeskus,Variable,6387.0
+2026-06-16,Sales,Travel,Booking.com,Variable,1442.83
+2026-06-18,Sales,Travel,VR,Variable,1534.62
+2026-06-19,Operations,Travel,Booking.com,Variable,1215.69
+2026-06-19,HR,Consulting,Accenture,Variable,2560.66
+2026-06-19,Marketing,Travel,Booking.com,Variable,1862.36
+2026-06-19,Finance,Software,Slack,Fixed,2095.07
+2026-06-19,Marketing,Events,Messukeskus,Variable,9255.65
+2026-06-21,Finance,Consulting,Accenture,Variable,2607.04
+2026-06-21,Operations,Maintenance,ServiceCo,Variable,3229.33
+2026-06-21,Operations,Supplies,Staples,Variable,626.53
+2026-06-22,IT,Software,Adobe,Fixed,3403.07
+2026-06-22,Marketing,Advertising,Google Ads,Variable,6302.29
+2026-06-22,Marketing,Advertising,Google Ads,Variable,3393.32
+2026-06-23,Operations,Supplies,Tokmanni,Variable,270.4
+2026-06-23,Sales,Software,Adobe,Fixed,3972.7
+2026-06-23,Sales,Travel,Finnair,Variable,218.96
+2026-06-24,HR,Recruitment,Recruit Partners,Variable,5180.88
+2026-06-25,HR,Training,Coursera,Variable,3309.53
+2026-06-28,Operations,Equipment,Industrial Supply,Variable,1549.51
+2026-06-28,Marketing,Software,Microsoft,Fixed,3654.7
+2026-06-30,Sales,Training,Udemy,Variable,971.68
+2026-07-01,Sales,Travel,Booking.com,Variable,1291.88
+2026-07-02,HR,Consulting,Local Consulting Oy,Variable,5536.8
+2026-07-03,Marketing,Advertising,LinkedIn,Variable,1340.03
+2026-07-03,Sales,Events,Eventful Oy,Variable,7129.39
+2026-07-03,Marketing,Advertising,Google Ads,Variable,6187.68
+2026-07-04,HR,Training,Local Academy,Variable,3336.84
+2026-07-04,HR,Software,Adobe,Fixed,2280.38
+2026-07-04,Sales,Travel,Finnair,Variable,551.46
+2026-07-05,IT,Hardware,Lenovo,Variable,1624.11
+2026-07-05,IT,Consulting,Local Consulting Oy,Variable,4581.83
+2026-07-05,Finance,Software,Adobe,Fixed,1610.77
+2026-07-05,IT,Software,Atlassian,Fixed,3615.73
+2026-07-06,Marketing,Software,Microsoft,Fixed,2379.07
+2026-07-06,IT,Cloud services,AWS,Fixed,2976.2
+2026-07-07,IT,Software,Microsoft,Fixed,2619.58
+2026-07-07,Marketing,Events,Conference Co,Variable,8711.12
+2026-07-07,Operations,Supplies,Staples,Variable,472.61
+2026-07-08,HR,Recruitment,Recruit Partners,Variable,1798.88
+2026-07-08,Marketing,Consulting,Accenture,Variable,7755.46
+2026-07-09,Operations,Equipment,Industrial Supply,Variable,4545.83
+2026-07-10,Finance,Consulting,Deloitte,Variable,5353.59
+2026-07-13,Operations,Travel,VR,Variable,1946.79
+2026-07-13,Sales,Training,Local Academy,Variable,3047.69
+2026-07-13,Marketing,Advertising,Meta Ads,Variable,2128.31
+2026-07-14,Sales,Software,Slack,Fixed,1274.94
+2026-07-14,IT,Cloud services,Azure,Fixed,5215.15
+2026-07-14,Finance,Consulting,Accenture,Variable,3148.68
+2026-07-15,Operations,Maintenance,Kone,Variable,3046.83
+2026-07-16,Finance,Training,Coursera,Variable,1541.42
+2026-07-17,HR,Recruitment,Oikotie,Variable,5196.02
+2026-07-17,HR,Recruitment,Oikotie,Variable,3876.45
+2026-07-17,HR,Training,Local Academy,Variable,659.88
+2026-07-17,IT,Cloud services,Azure,Fixed,4365.63
+2026-07-20,Operations,Supplies,Tokmanni,Variable,343.9
+2026-07-20,Sales,Travel,VR,Variable,274.38
+2026-07-20,Marketing,Travel,Finnair,Variable,937.17
+2026-07-21,Operations,Supplies,Lyreco,Variable,1048.59
+2026-07-21,Marketing,Advertising,Meta Ads,Variable,7672.07
+2026-07-23,IT,Software,Slack,Fixed,742.76
+2026-07-25,Operations,Equipment,Fastems,Variable,6208.04
+2026-07-25,Operations,Maintenance,ServiceCo,Variable,3332.63
+2026-07-26,Operations,Equipment,Industrial Supply,Variable,7583.64
+2026-07-26,Operations,Maintenance,Kone,Variable,4068.42
+2026-07-29,Sales,Travel,Finnair,Variable,2524.82
+2026-07-31,Finance,Software,Adobe,Fixed,3936.33
+2026-08-01,Sales,Software,Slack,Fixed,3931.15
+2026-08-01,HR,Consulting,Accenture,Variable,8081.03
+2026-08-02,Sales,Training,Coursera,Variable,2165.93
+2026-08-02,Finance,Software,Adobe,Fixed,4241.22
+2026-08-02,HR,Software,Slack,Fixed,683.08
+2026-08-02,Sales,Events,Messukeskus,Variable,2918.58
+2026-08-03,Operations,Equipment,Fastems,Variable,6732.27
+2026-08-04,HR,Recruitment,Oikotie,Variable,5801.91
+2026-08-04,Sales,Travel,VR,Variable,1435.62
+2026-08-06,HR,Training,Udemy,Variable,475.59
+2026-08-06,HR,Recruitment,Recruit Partners,Variable,5531.76
+2026-08-07,IT,Hardware,Lenovo,Variable,4469.96
+2026-08-10,Finance,Consulting,Deloitte,Variable,5539.3
+2026-08-10,HR,Training,Udemy,Variable,537.88
+2026-08-10,IT,Cloud services,Azure,Fixed,5098.32
+2026-08-11,Operations,Supplies,Lyreco,Variable,688.51
+2026-08-12,Marketing,Advertising,LinkedIn,Variable,2587.63
+2026-08-12,Sales,Travel,Booking.com,Variable,1665.16
+2026-08-13,Sales,Travel,Finnair,Variable,2858.99
+2026-08-13,Marketing,Advertising,LinkedIn,Variable,988.56
+2026-08-14,Sales,Travel,Booking.com,Variable,1955.84
+2026-08-15,Marketing,Advertising,Meta Ads,Variable,7286.55
+2026-08-17,Marketing,Software,Slack,Fixed,3641.94
+2026-08-17,Marketing,Events,Messukeskus,Variable,8556.12
+2026-08-17,IT,Software,Slack,Fixed,2042.39
+2026-08-19,IT,Consulting,Deloitte,Variable,1649.9
+2026-08-19,IT,Software,Slack,Fixed,4247.18
+2026-08-21,Operations,Supplies,Tokmanni,Variable,357.91
+2026-08-21,Operations,Maintenance,Kone,Variable,543.3
+2026-08-22,Operations,Maintenance,ServiceCo,Variable,2932.12
+2026-08-22,Finance,Training,Coursera,Variable,1796.22
+2026-08-23,Finance,Software,Adobe,Fixed,3766.76
+2026-08-23,Marketing,Consulting,Local Consulting Oy,Variable,2988.65
+2026-08-24,Marketing,Advertising,Google Ads,Variable,3661.43
+2026-08-24,Operations,Travel,Finnair,Variable,2105.01
+2026-08-24,Operations,Equipment,Fastems,Variable,7089.62
+2026-08-25,Marketing,Travel,Finnair,Variable,823.78
+2026-08-25,IT,Software,Atlassian,Fixed,3748.16
+2026-08-25,Operations,Equipment,Fastems,Variable,1681.84
+2026-08-26,HR,Recruitment,Oikotie,Variable,1500.72
+2026-08-28,Operations,Maintenance,Kone,Variable,1446.2
+2026-08-29,IT,Cloud services,Google Cloud,Fixed,3768.49
+2026-08-30,Finance,Consulting,Local Consulting Oy,Variable,4916.78
+2026-08-30,IT,Cloud services,AWS,Fixed,2052.35
+2026-08-31,Operations,Supplies,Lyreco,Variable,352.67
+2026-09-01,Finance,Software,Slack,Fixed,2698.87
+2026-09-02,IT,Cloud services,Azure,Fixed,1397.03
+2026-09-02,Marketing,Advertising,LinkedIn,Variable,4285.94
+2026-09-05,HR,Recruitment,Oikotie,Variable,5491.28
+2026-09-06,Operations,Maintenance,FixIt Oy,Variable,2761.21
+2026-09-06,HR,Recruitment,Oikotie,Variable,4064.43
+2026-09-07,Operations,Equipment,Fastems,Variable,3963.29
+2026-09-08,Operations,Equipment,Industrial Supply,Variable,8281.57
+2026-09-10,HR,Recruitment,LinkedIn,Variable,4702.07
+2026-09-11,Finance,Consulting,Deloitte,Variable,8423.75
+2026-09-11,HR,Consulting,Accenture,Variable,3408.12
+2026-09-11,Sales,Travel,Booking.com,Variable,2248.38
+2026-09-12,Finance,Training,Coursera,Variable,3038.33
+2026-09-13,Finance,Consulting,Local Consulting Oy,Variable,2912.43
+2026-09-13,Operations,Travel,VR,Variable,2292.67
+2026-09-13,Sales,Travel,Finnair,Variable,448.43
+2026-09-13,Marketing,Consulting,Deloitte,Variable,5245.37
+2026-09-14,IT,Software,Adobe,Fixed,3128.55
+2026-09-15,HR,Training,Local Academy,Variable,3596.06
+2026-09-16,Operations,Supplies,Staples,Variable,252.49
+2026-09-16,Marketing,Events,Conference Co,Variable,5816.1
+2026-09-16,Sales,Travel,VR,Variable,690.09
+2026-09-16,Operations,Supplies,Tokmanni,Variable,515.21
+2026-09-17,Marketing,Travel,VR,Variable,2893.4
+2026-09-17,Marketing,Advertising,Meta Ads,Variable,5433.81
+2026-09-18,Sales,Travel,Finnair,Variable,1398.09
+2026-09-19,IT,Hardware,Dell,Variable,3416.38
+2026-09-19,IT,Software,Adobe,Fixed,3390.69
+2026-09-20,Operations,Maintenance,FixIt Oy,Variable,2460.68
+2026-09-20,Finance,Software,Adobe,Fixed,4771.24
+2026-09-22,Sales,Events,Eventful Oy,Variable,6568.63
+2026-09-22,Marketing,Advertising,LinkedIn,Variable,4436.14
+2026-09-25,IT,Cloud services,Google Cloud,Fixed,2154.79
+2026-09-25,Operations,Supplies,Lyreco,Variable,397.29
+2026-09-25,HR,Software,Microsoft,Fixed,1633.8
+2026-09-26,IT,Consulting,Local Consulting Oy,Variable,5784.71
+2026-09-28,IT,Software,Microsoft,Fixed,3439.32
+2026-09-28,Operations,Equipment,Industrial Supply,Variable,6803.71
+2026-09-29,Operations,Maintenance,ServiceCo,Variable,1510.57
+2026-09-29,HR,Training,Coursera,Variable,2780.47
+2026-09-29,Marketing,Advertising,Meta Ads,Variable,5295.58
+2026-09-30,Sales,Training,Udemy,Variable,2345.51
+2026-09-30,Sales,Software,Microsoft,Fixed,4538.38
+2026-09-30,IT,Cloud services,AWS,Fixed,3182.45
+2026-09-30,Marketing,Software,Adobe,Fixed,679.02
+2026-10-01,IT,Cloud services,Google Cloud,Fixed,2021.39
+2026-10-02,IT,Software,Microsoft,Fixed,4326.96
+2026-10-03,Finance,Training,Local Academy,Variable,2669.9
+2026-10-04,Marketing,Advertising,Google Ads,Variable,2311.18
+2026-10-04,Sales,Travel,VR,Variable,2535.05
+2026-10-05,Operations,Travel,Booking.com,Variable,1415.33
+2026-10-05,HR,Training,Local Academy,Variable,3884.96
+2026-10-06,Finance,Consulting,Deloitte,Variable,2152.78
+2026-10-06,HR,Training,Coursera,Variable,966.63
+2026-10-07,Finance,Consulting,Local Consulting Oy,Variable,10846.7
+2026-10-07,Marketing,Events,Messukeskus,Variable,11988.91
+2026-10-07,Sales,Training,Local Academy,Variable,678.82
+2026-10-08,IT,Hardware,Lenovo,Variable,2598.87
+2026-10-12,Sales,Travel,Finnair,Variable,1644.85
+2026-10-14,HR,Software,Microsoft,Fixed,5203.4
+2026-10-15,Marketing,Advertising,LinkedIn,Variable,8773.19
+2026-10-17,Operations,Maintenance,ServiceCo,Variable,4730.01
+2026-10-17,Finance,Software,Slack,Fixed,479.5
+2026-10-17,HR,Consulting,Accenture,Variable,10401.1
+2026-10-17,Operations,Maintenance,FixIt Oy,Variable,2619.42
+2026-10-17,Operations,Supplies,Tokmanni,Variable,324.16
+2026-10-17,IT,Consulting,Deloitte,Variable,5722.98
+2026-10-17,Sales,Events,Messukeskus,Variable,8078.09
+2026-10-19,Marketing,Advertising,LinkedIn,Variable,5665.78
+2026-10-20,Sales,Software,Slack,Fixed,4590.45
+2026-10-20,Operations,Equipment,Toolmaster,Variable,1967.06
+2026-10-21,Operations,Equipment,Industrial Supply,Variable,1245.55
+2026-10-21,Marketing,Advertising,Meta Ads,Variable,1345.14
+2026-10-22,Marketing,Software,Microsoft,Fixed,1461.53
+2026-10-22,IT,Cloud services,AWS,Fixed,1434.26
+2026-10-22,Operations,Maintenance,Kone,Variable,4176.77
+2026-10-22,HR,Recruitment,Oikotie,Variable,962.2
+2026-10-23,Operations,Supplies,Lyreco,Variable,1184.42
+2026-10-23,Sales,Travel,Finnair,Variable,359.03
+2026-10-26,Marketing,Consulting,Deloitte,Variable,8451.58
+2026-10-27,HR,Recruitment,Oikotie,Variable,3544.19
+2026-10-27,HR,Recruitment,LinkedIn,Variable,4474.13
+2026-10-28,Marketing,Travel,VR,Variable,1190.62
+2026-10-28,Finance,Software,Slack,Fixed,5412.58
+2026-10-29,Sales,Travel,VR,Variable,1384.84
+2026-10-29,IT,Cloud services,Azure,Fixed,1240.16
+2026-10-30,Operations,Equipment,Toolmaster,Variable,4388.62
+2026-10-31,IT,Software,Atlassian,Fixed,1328.75
+2026-10-31,IT,Software,Adobe,Fixed,526.37
+2026-10-31,Operations,Supplies,Staples,Variable,329.29
