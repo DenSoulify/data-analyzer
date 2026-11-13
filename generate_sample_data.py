@@ -3,7 +3,7 @@ from pathlib import Path
 import numpy as np
 import pandas as pd
 # CSV randomizer to test out the program without actual data.
-rng = np.random.default_rng(42)  # fixed seed -> same data every run, now the seed is randomized each time the program is run
+rng = np.random.default_rng(42)  # fixed seed -> same data every run
 
 # category -> (min amount, max amount, vendors)
 CATEGORIES = {
